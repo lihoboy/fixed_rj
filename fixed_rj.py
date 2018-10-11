@@ -6,7 +6,7 @@ import DrawGan as DG
 def main():
 
     '''read file'''
-    file_path="data_2_10_v2"
+    file_path="data_2_10_v6"
     num_rj, num_jobs, rj_list, Job_list=read_file("data/"+file_path)
 
     '''init'''
